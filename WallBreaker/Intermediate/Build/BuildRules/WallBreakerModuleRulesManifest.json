@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\WallBreaker\\Source\\WallBreaker\\WallBreaker.Build.cs",
+		"D:\\WallBreaker\\Source\\WallBreaker.Target.cs",
+		"D:\\WallBreaker\\Source\\WallBreakerEditor.Target.cs"
+	],
+	"EngineVersion": "5.7.4"
+}

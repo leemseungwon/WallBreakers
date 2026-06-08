@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "WallBreaker",
+			"Path": "..\\Source\\WallBreaker.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "WallBreakerEditor",
+			"Path": "..\\Source\\WallBreakerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
