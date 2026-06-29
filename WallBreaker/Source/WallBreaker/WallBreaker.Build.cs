@@ -17,7 +17,8 @@ public class WallBreaker : ModuleRules
             "GameplayTags", 
             "AIModule", 
             "NavigationSystem", 
-            "Niagara"
+            "Niagara",
+            "UMG"
         });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
